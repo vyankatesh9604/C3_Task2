@@ -12,7 +12,7 @@ export default function Home() {
     const data = [{name: 'ML', uv: 100, pv: 100, amt: 100},{name: 'Data structure', uv: 50, pv: 2400, amt: 2400},{name: 'Math', uv:75, pv: 2400, amt: 2400},];
     return (
         <div>
-            <div className="row row-cols-1 row-cols-md-3 ml-5 pl-4">
+            <div className="row row-cols-1 row-cols-md-3 ml-5 pl-4 mt-5">
                     <div className="col mb-4">
                             <div className="card">
                                 <div className="card-body">
@@ -133,10 +133,8 @@ export default function Home() {
                                         <img src={math} width="40" className="col-3 "/>
                                         <h6 className="card-title text-center col-8">Maths<br/>30Lessons</h6>
                                         </div>
-                                        <div className="card mt-2">
-                                        <div className="card-body">
-                                        </div>
-                                        </div>
+                                        
+                                       <button className="btn btn-block bg-primary mt-2">view course</button>
                                     </div>
                                 </div>
                                 <div className=" col-md-5 card mx-auto ">
@@ -145,10 +143,7 @@ export default function Home() {
                                         <img src={physics} width="30" className="col-3 "/>
                                         <h6 className="card-title text-center col-8">physics<br/>35Lessons</h6>
                                         </div>
-                                        <div className="card mt-2">
-                                        <div className="card-body">
-                                        </div>
-                                        </div>
+                                        <button className="btn btn-block bg-primary mt-2">view course</button>
                                     </div>
                                 </div>
                                 </div>
