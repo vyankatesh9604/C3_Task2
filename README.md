@@ -1,6 +1,6 @@
 # In this project the libraries are used  as Follow
 
-# For SideBar Need install 
+# For SideBar Need  To install 
         npm  install  react-pro-sidebar
 # For Icon 
         npm  install  react-icon
