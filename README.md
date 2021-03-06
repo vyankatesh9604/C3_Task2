@@ -1,4 +1,4 @@
-# In this project the libraries are used ara as Follow
+# In this project the libraries are used  as Follow
 
 # For SideBar Need install 
         npm  install  react-pro-sidebar
