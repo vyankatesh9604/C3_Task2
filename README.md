@@ -15,7 +15,7 @@
 
 # Step-1
     clone the project using 
-        git clone git url
+        git clone https://github.com/vyankatesh9604/C3_Task2.git
 
 # step-2
     Install the packages in project using
