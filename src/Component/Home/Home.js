@@ -70,49 +70,49 @@ export default function Home() {
                                     <tr>
                                         <th colspan="2">SrNo</th>
                                         <th colspan="2" className="pl-4">Name</th>
-                                        <th colspan="2"className="pl-5">Rank</th>    
+                                        <th colspan="2"className="pl-3">Rank</th>    
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">1</td>
                                         <td colspan="2 " className="pl-1">Vyankatesh</td>    
-                                        <td colspan="2"className="pl-5">1st</td>
+                                        <td colspan="2"className="pl-3">1st</td>
                                         
                                         
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">2</td>
                                         <td colspan="2 "className="pl-1" >Rohan</td>    
-                                        <td colspan="2"className="pl-5">2nd</td>
+                                        <td colspan="2"className="pl-3">2nd</td>
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">3</td>
                                         <td colspan="2 "className="pl-1">Raghuveer</td>    
-                                        <td colspan="2"className="pl-5">3rd</td>
+                                        <td colspan="2"className="pl-3">3rd</td>
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">4</td>
                                         <td colspan="2 "className="pl-1">Vedant</td>    
-                                        <td colspan="2"className="pl-5">4th</td>
+                                        <td colspan="2"className="pl-3">4th</td>
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">5</td>
                                         <td colspan="2 "className="pl-1">Tejas</td>    
-                                        <td colspan="2"className="pl-5">5th</td>
+                                        <td colspan="2"className="pl-3">5th</td>
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">6</td>
                                         <td colspan="2 "className="pl-1">Shantanu</td>    
-                                        <td colspan="2"className="pl-5">6th</td>
+                                        <td colspan="2"className="pl-3">6th</td>
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">7</td>
                                         <td colspan="2 "className="pl-1">Prajwal</td>    
-                                        <td colspan="2"className="pl-5">7th</td>
+                                        <td colspan="2"className="pl-3">7th</td>
                                     </tr>
                                     <tr>
                                         <td colspan="2" className="pl-1">8</td>
                                         <td colspan="2 "className="pl-1">harish</td>    
-                                        <td colspan="2"className="pl-5">8th</td>
+                                        <td colspan="2"className="pl-3">8th</td>
                                     </tr>
                                 <br/>
                                 </table>
